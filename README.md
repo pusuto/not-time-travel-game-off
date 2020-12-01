@@ -1,3 +1,14 @@
+How to get out of this dungeon with impossible puzzles?
+
+Simple. With a magical lantern.
+
+At the moment we're unsure whether this lantern's power is based on time travel. We'll keep you posted. In the meantime, try your best to escape.
+
+The lantern will allow you to create clones of yourself. If that sounds random, it's because it is.
+
+
+This game was created for the GitHub 2020 Game Off by Alberto Piu.
+
 Thanks to:
 
 - Alessandro
